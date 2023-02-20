@@ -39,6 +39,10 @@ dependencies:
   device_apps: ^2.2.0
   battery_plus: ^3.0.3
   at_gauges: ^1.0.1
+  provider: ^6.0.5
+  storage_info: ^0.0.1
+  wave: ^0.2.2
+  screen_brightness: ^0.2.2
 
 dev_dependencies:
   flutter_test:
